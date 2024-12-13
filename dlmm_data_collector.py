@@ -18,7 +18,7 @@ from requests.exceptions import RequestException
 import random
 import sys
 import traceback
-import msvcrt
+# import msvcrt # Comment out or remove this line
 from scipy import stats
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
